@@ -9,3 +9,8 @@ Two web pages allow:
 1) The "Next" customer(s) to be displayed - along with the service point they should attend
 2) A simple UI for the service agents to summon the next customer
 
+
+
+
+
+        
